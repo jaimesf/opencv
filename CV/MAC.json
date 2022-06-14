@@ -1,0 +1,160 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jaime",
+      "surnames": "Sánchez Force",
+      "description": "Tengo 15 años de experiencia en el mundo de la programación, y mi puesto de trabajo no tiene nombre: Desarrollador web, Analista, Arquitecto de software, Devops, sistemas... \nSoy el que termina haciendo de todo.\nAdemás de eso probablemente mi motivación mas grande es la de aprender. Si pasa un año sin que aprenda algún lenguaje/tecnología nueva, es un año perdido.\n\nPor aficiones personales, podría definirme como un geek, freak, gamer, o una fusión de todos ellos al mismo tiempo.\n\n",
+      "avatar": {
+        "alt": "SaiyanJaime.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/d7264287-6f65-4fb6-915d-3fbdc45244e1_saiyanjaime.png"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "http://www.learningtheforce.com/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jaimesf"
+      },
+      {
+        "type": "other",
+        "URL": "https://jaimesanchezforce.com"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/JaimeSForce"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jaimesanchezforce/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Tecnologías que cambian el paradigma",
+        "fact": "Es algo curioso, ya que cuando sale una nueva tecnología (O tecnología vieja, aplicada a un nuevo campo) que cambia el concepto de como vemos las cosas, podría estar hablando de ello durante horas. Me pasó cuando salió Android por ej, y me pasa ahora con los vehículos eléctricos."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Learning the force",
+        "type": "other",
+        "URL": "https://learningtheforce.com/",
+        "authors": [
+          {
+            "name": "Myself",
+            "surnames": "Myself",
+            "title": "Author"
+          }
+        ],
+        "summary": "Personal blog"
+      },
+      {
+        "title": "Online freak CV",
+        "type": "other",
+        "URL": "https://jaimesanchezforce.com/",
+        "authors": [
+          {
+            "name": "Jaime",
+            "surnames": "Jaime",
+            "title": "Author"
+          }
+        ],
+        "summary": "Onlince freak Maven CV"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingenieria técnica de telecomunicaciones, especialidad telemática",
+        "startDate": "2001-09-01",
+        "finishDate": "2015-03-01",
+        "institution": {
+          "name": "Carlos III Madrid",
+          "URL": "https://www.uc3m.es/"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jaimesanchezforce/"
+        }
+      ]
+    }
+  }
+}
