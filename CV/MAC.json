@@ -267,11 +267,19 @@
                 "type": "technology"
               },
               {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
                 "name": "GitLab",
                 "type": "technology"
               },
               {
                 "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Logstash",
                 "type": "technology"
               },
               {
