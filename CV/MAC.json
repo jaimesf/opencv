@@ -159,6 +159,69 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "StratioBD"
+        },
+        "roles": [
+          {
+            "name": "Senior backend developer",
+            "startDate": "2020-03-01",
+            "finishDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": "My official position was senior backend developer, but in reality I was doing architecture tasks practically from the beginning, on a project for the private healthcare sector implemented in dozens of centers."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Spock",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
