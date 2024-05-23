@@ -230,6 +230,53 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Grupo CPS"
+        },
+        "roles": [
+          {
+            "name": "Software Architect",
+            "startDate": "2019-03-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Software Architect position, doing development and integrating an IoT platform for smart city management, with technologies such as Kubernetes."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bamboo",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
