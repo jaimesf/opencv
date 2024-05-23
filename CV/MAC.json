@@ -188,7 +188,15 @@
                 "type": "technology"
               },
               {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
                 "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
                 "type": "technology"
               },
               {
@@ -197,6 +205,10 @@
               },
               {
                 "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
                 "type": "technology"
               },
               {
