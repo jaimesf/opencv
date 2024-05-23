@@ -1,44 +1,26 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Jaime",
       "surnames": "Sánchez Force",
+      "title": "Title",
       "description": "Tengo 15 años de experiencia en el mundo de la programación, y mi puesto de trabajo no tiene nombre: Desarrollador web, Analista, Arquitecto de software, Devops, sistemas... \nSoy el que termina haciendo de todo.\nAdemás de eso probablemente mi motivación mas grande es la de aprender. Si pasa un año sin que aprenda algún lenguaje/tecnología nueva, es un año perdido.\n\nPor aficiones personales, podría definirme como un geek, freak, gamer, o una fusión de todos ellos al mismo tiempo.\n\n",
       "avatar": {
-        "alt": "SaiyanJaime.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/d7264287-6f65-4fb6-915d-3fbdc45244e1_saiyanjaime.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/d7264287-6f65-4fb6-915d-3fbdc45244e1_saiyanjaime.png",
+        "alt": "SaiyanJaime.png"
       },
       "location": {
-        "notes": "Madrid"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "http://www.learningtheforce.com/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/jaimesf"
-      },
-      {
-        "type": "other",
-        "URL": "https://jaimesanchezforce.com"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/JaimeSForce"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jaimesanchezforce/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Tecnologías que cambian el paradigma",
@@ -50,55 +32,153 @@
         "title": "Learning the force",
         "type": "other",
         "URL": "https://learningtheforce.com/",
+        "summary": "Personal blog",
         "authors": [
           {
             "name": "Myself",
             "surnames": "Myself",
             "title": "Author"
           }
-        ],
-        "summary": "Personal blog"
+        ]
       },
       {
         "title": "Online freak CV",
         "type": "other",
         "URL": "https://jaimesanchezforce.com/",
+        "summary": "Online freak Maven CV",
         "authors": [
           {
             "name": "Jaime",
             "surnames": "Jaime",
             "title": "Author"
           }
-        ],
-        "summary": "Onlince freak Maven CV"
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jaimesanchezforce/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jaimesf"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/JaimeSForce"
+      },
+      {
+        "type": "other",
+        "URL": "http://www.learningtheforce.com/"
+      },
+      {
+        "type": "other",
+        "URL": "https://jaimesanchezforce.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Opscura",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/4c9c1463-7fed-4a0b-a700-40a2acb77896_opscura-logo-white-f.png",
+            "alt": "opscura-logo-white-footer.png"
+          },
+          "URL": "https://www.opscura.io/"
+        },
+        "roles": [
+          {
+            "name": "Software Architect",
+            "startDate": "2022-08-01",
+            "finishDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Software architect in the web part for a cyber security project"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
+          "name": "Android",
           "type": "technology"
         }
       },
@@ -110,7 +190,25 @@
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -122,13 +220,19 @@
       },
       {
         "skill": {
-          "name": "Android",
+          "name": "Maven",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Ansible",
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -139,10 +243,30 @@
         "degreeAchieved": true,
         "name": "Ingenieria técnica de telecomunicaciones, especialidad telemática",
         "startDate": "2001-09-01",
-        "finishDate": "2015-03-01",
         "institution": {
           "name": "Carlos III Madrid",
           "URL": "https://www.uc3m.es/"
+        },
+        "finishDate": "2015-03-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
         }
       }
     ]
@@ -151,10 +275,89 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jaimesanchezforce/"
+          "URL": "https://www.linkedin.com/in/jaimesanchezforce/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/jaimesf",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/JaimeSForce",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "jaimesf@gmail.com"
       ]
-    }
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Gradle",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Micronaut Framework",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Software Architect"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Maven",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Un puesto técnico donde poder estar siempre buscando nuevos retos, y que no termine siendo un copiar y pegar. Por supuesto con buenas practicas, ya que todas las empresas por las que he pasado, nunca he tenido una metodología de calidad mínima.",
+    "bookmarks": [
+      {
+        "name": "Learning the force"
+      },
+      {
+        "name": "Online freak CV"
+      }
+    ]
   }
 }
