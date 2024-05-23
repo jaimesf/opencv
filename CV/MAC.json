@@ -424,6 +424,10 @@
           "type": "technology"
         },
         {
+          "name": "Maven",
+          "type": "technology"
+        },
+        {
           "name": "Micronaut Framework",
           "type": "technology"
         },
