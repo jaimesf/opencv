@@ -145,11 +145,19 @@
                 "type": "technology"
               },
               {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
                 "name": "RabbitMQ",
                 "type": "technology"
               },
               {
                 "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Spock",
                 "type": "technology"
               },
               {
