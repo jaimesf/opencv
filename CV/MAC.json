@@ -8,7 +8,7 @@
     "profile": {
       "name": "Jaime",
       "surnames": "Sánchez Force",
-      "title": "Title",
+      "title": "%%HEADLINE%%",
       "description": "Tengo 15 años de experiencia en el mundo de la programación, y mi puesto de trabajo no tiene nombre: Desarrollador web, Analista, Arquitecto de software, Devops, sistemas... \nSoy el que termina haciendo de todo.\nAdemás de eso probablemente mi motivación mas grande es la de aprender. Si pasa un año sin que aprenda algún lenguaje/tecnología nueva, es un año perdido.\n\nPor aficiones personales, podría definirme como un geek, freak, gamer, o una fusión de todos ellos al mismo tiempo.\n\n",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/d7264287-6f65-4fb6-915d-3fbdc45244e1_saiyanjaime.png",
@@ -472,7 +472,12 @@
         "Software Architect"
       ]
     },
-    "status": "openToOffers"
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
