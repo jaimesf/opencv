@@ -82,6 +82,44 @@
     "jobs": [
       {
         "organization": {
+          "name": "Knowmad Mood"
+        },
+        "roles": [
+          {
+            "name": "Software Architect",
+            "startDate": "2024-11-01",
+            "challenges": [
+              {
+                "description": "Software architect for a insurance project."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Opscura",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/23/4c9c1463-7fed-4a0b-a700-40a2acb77896_opscura-logo-white-f.png",
