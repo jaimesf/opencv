@@ -66,11 +66,13 @@
       },
       {
         "type": "other",
-        "URL": "http://www.learningtheforce.com/"
+        "URL": "http://www.learningtheforce.com/",
+        "description": "Blog personal"
       },
       {
         "type": "other",
-        "URL": "https://jaimesanchezforce.com"
+        "URL": "https://jaimesanchezforce.com",
+        "description": "CV online"
       }
     ]
   },
