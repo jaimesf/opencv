@@ -65,10 +65,6 @@
         "URL": "https://github.com/jaimesf"
       },
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/JaimeSForce"
-      },
-      {
         "type": "other",
         "URL": "http://www.learningtheforce.com/"
       },
@@ -457,10 +453,6 @@
         {
           "URL": "https://github.com/jaimesf",
           "type": "github"
-        },
-        {
-          "URL": "https://twitter.com/JaimeSForce",
-          "type": "twitter"
         }
       ],
       "contactMails": [
