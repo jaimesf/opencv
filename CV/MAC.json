@@ -97,6 +97,10 @@
                 "type": "technology"
               },
               {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
                 "name": "Java",
                 "type": "technology"
               },
