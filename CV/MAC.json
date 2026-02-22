@@ -472,6 +472,10 @@
           "type": "technology"
         },
         {
+          "name": "AWS EC2",
+          "type": "technology"
+        },
+        {
           "name": "Gradle",
           "type": "technology"
         },
@@ -511,7 +515,8 @@
     "status": "searchingActively",
     "requirements": {
       "contractTypes": [
-        "permanent"
+        "permanent",
+        "freelance"
       ]
     }
   },
