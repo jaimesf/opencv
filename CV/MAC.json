@@ -476,6 +476,10 @@
           "type": "technology"
         },
         {
+          "name": "AWS ECS",
+          "type": "technology"
+        },
+        {
           "name": "Gradle",
           "type": "technology"
         },
