@@ -472,10 +472,6 @@
           "type": "technology"
         },
         {
-          "name": "AWS EC2",
-          "type": "technology"
-        },
-        {
           "name": "AWS ECS",
           "type": "technology"
         },
