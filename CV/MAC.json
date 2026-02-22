@@ -480,6 +480,10 @@
           "type": "technology"
         },
         {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
           "name": "Google Cloud",
           "type": "technology"
         },
