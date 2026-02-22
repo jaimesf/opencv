@@ -480,6 +480,10 @@
           "type": "technology"
         },
         {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
           "name": "Gradle",
           "type": "technology"
         },
