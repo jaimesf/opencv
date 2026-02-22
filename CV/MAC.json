@@ -472,10 +472,6 @@
           "type": "technology"
         },
         {
-          "name": "AWS ECS",
-          "type": "technology"
-        },
-        {
           "name": "Azure",
           "type": "technology"
         },
@@ -501,6 +497,10 @@
         },
         {
           "name": "Micronaut Framework",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
           "type": "technology"
         },
         {
