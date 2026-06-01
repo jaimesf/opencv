@@ -80,6 +80,36 @@
     "jobs": [
       {
         "organization": {
+          "name": "Paradigma Digital"
+        },
+        "roles": [
+          {
+            "name": "Software Architect",
+            "startDate": "2026-04-01",
+            "challenges": [
+              {
+                "description": "Software Architect for a security project"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Knowmad Mood"
         },
         "roles": [
